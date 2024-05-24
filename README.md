@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👻 About Me:
 🔭 Software engineer sharing about my technology learnings and achievements<br>👨‍🎓 Studied Software Engineering at the Universidad Peruana de Ciencias Aplicadas, Peru<br>🔎 Currently learning about frameworks for web development<br>⚡ Fun fact when I'm not writing code, I'm probably playing with my cat named "Cookie" and enjoying his feline company.
 
 
