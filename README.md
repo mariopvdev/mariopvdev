@@ -15,41 +15,13 @@ Soy **Desarrollador de Software Full-Stack**, estudiante de Ingeniería de Softw
 
 ### 🛠️ Stack Tecnológico
 
-**Frontend**
-<p>
-  <img src="https://githubusercontent.com" alt="TypeScript" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="JavaScript" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="Next.js" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="React" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="Angular" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="Tailwind CSS" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="HTML5" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="CSS3" width="36" height="36" />
-</p>
-
-**Backend & Bases de Datos**
-<p>
-  <img src="https://githubusercontent.com" alt="Python" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="Java" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="Spring Boot" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt=".NET Core" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="Node.js" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="PostgreSQL" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="Supabase" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="MySQL" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="MongoDB" width="36" height="36" />
-</p>
-
-**Cloud, DevOps & Herramientas**
-<p>
-  <img src="https://githubusercontent.com" alt="Vercel" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="GitHub Actions" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="Git" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="Postman" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="Selenium" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="Figma" width="36" height="36" />
-  <img src="https://githubusercontent.com" alt="WordPress" width="36" height="36" />
-</p>
+| Área | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Frontend** | `TypeScript` · `JavaScript` · `Next.js` · `React` · `Angular` · `Tailwind CSS` · `HTML5` · `CSS3` |
+| **Backend & APIs** | `Python` · `Java` · `Spring Boot` · `.NET Core` · `Node.js` · `REST APIs` |
+| **Bases de Datos** | `PostgreSQL` · `Supabase` · `SQL` · `MySQL` · `MongoDB` |
+| **Cloud & DevOps** | `Vercel` · `Render` · `Netlify` · `Railway` · `GitHub Actions` · `Git` |
+| **IA, QA & Diseño** | `OpenAI API` · `Postman` · `Selenium` · `Figma` · `WordPress` |
 
 ---
 
